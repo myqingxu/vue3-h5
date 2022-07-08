@@ -1,0 +1,22 @@
+{
+  "name": "vant-v3",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "lib-flexible": "^0.3.2",
+    "vant": "^3.5.1",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.16"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "postcss-pxtorem": "^6.0.0",
+    "sass": "^1.52.3",
+    "unplugin-vue-components": "^0.19.6",
+    "vite": "^2.9.9"
+  }
+}
